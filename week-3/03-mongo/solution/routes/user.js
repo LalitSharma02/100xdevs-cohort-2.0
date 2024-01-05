@@ -17,7 +17,7 @@ router.post('/signup', (req, res) => {
         message: "User created successfully"
     })
 });
-
+// 24922
 router.get('/courses', async (req, res) => {
     // Implement listing all courses logic
      // Implement fetching all courses logic
